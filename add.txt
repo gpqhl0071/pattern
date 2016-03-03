@@ -1,5 +1,0 @@
-hello 1world@@@@@@@@@@
-Git is a distributed version control system.
-Git is free software.
-我在加一行
-我在加一行
