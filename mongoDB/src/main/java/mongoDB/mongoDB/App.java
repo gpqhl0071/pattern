@@ -23,7 +23,7 @@ public class App {
 
 	public static void getCollections() {
 		try {
-			// 连接到 mongodb 服务
+			// 连接到 mongodb 服务 
 			MongoClient mongoClient = new MongoClient(ip, port);
 
 			// 连接到数据库
